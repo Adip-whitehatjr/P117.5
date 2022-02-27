@@ -1,0 +1,40 @@
+#Mymodal {
+    background-color: yellowgreen;
+
+    
+}
+
+body {
+    background-color: #49fb39;
+}
+
+h1 {
+    color: rgb(0, 153, 255);
+    background-color: rgb(255, 243, 195);
+}
+
+#timer_p{
+    float: right;
+    margin-right: 20px;
+}
+
+#draw_p {
+    color: red;
+}
+
+#score_p {
+    float: left;
+    margin-left: 20px;
+}
+
+p, span {
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#sketch_button {
+    float: right;
+    margin-bottom: 50px;
+}
+
